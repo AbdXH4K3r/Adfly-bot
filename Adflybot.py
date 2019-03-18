@@ -1,5 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.common.proxy import Proxy, ProxyType
 import random,time,re,names,time
 
 def Prox():
